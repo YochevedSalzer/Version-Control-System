@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\1\\Desktop\\Version-Control-System\\FinalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C9FBFC9-F82D-40FA-82E6-B0D821726AEE}|FinalProject\\FinalProject.csproj|c:\\users\\1\\desktop\\version-control-system\\finalproject\\finalproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C9FBFC9-F82D-40FA-82E6-B0D821726AEE}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C9FBFC9-F82D-40FA-82E6-B0D821726AEE}|FinalProject\\FinalProject.csproj|C:\\Users\\1\\Desktop\\Version-Control-System\\FinalProject\\finalproject\\composite\\folderitemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C9FBFC9-F82D-40FA-82E6-B0D821726AEE}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\composite\\folderitemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C9FBFC9-F82D-40FA-82E6-B0D821726AEE}|FinalProject\\FinalProject.csproj|C:\\Users\\1\\Desktop\\Version-Control-System\\FinalProject\\finalproject\\memento\\folderitemmemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C9FBFC9-F82D-40FA-82E6-B0D821726AEE}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\memento\\folderitemmemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C9FBFC9-F82D-40FA-82E6-B0D821726AEE}|FinalProject\\FinalProject.csproj|C:\\Users\\1\\Desktop\\Version-Control-System\\FinalProject\\finalproject\\observer\\icollaborator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C9FBFC9-F82D-40FA-82E6-B0D821726AEE}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\observer\\icollaborator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C9FBFC9-F82D-40FA-82E6-B0D821726AEE}|FinalProject\\FinalProject.csproj|C:\\Users\\1\\Desktop\\Version-Control-System\\FinalProject\\finalproject\\observer\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C9FBFC9-F82D-40FA-82E6-B0D821726AEE}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\observer\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C9FBFC9-F82D-40FA-82E6-B0D821726AEE}|FinalProject\\FinalProject.csproj|C:\\Users\\1\\Desktop\\Version-Control-System\\FinalProject\\finalproject\\observer\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C9FBFC9-F82D-40FA-82E6-B0D821726AEE}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\observer\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C9FBFC9-F82D-40FA-82E6-B0D821726AEE}|FinalProject\\FinalProject.csproj|C:\\Users\\1\\Desktop\\Version-Control-System\\FinalProject\\finalproject\\flyweight\\branchcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C9FBFC9-F82D-40FA-82E6-B0D821726AEE}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\flyweight\\branchcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C9FBFC9-F82D-40FA-82E6-B0D821726AEE}|FinalProject\\FinalProject.csproj|C:\\Users\\1\\Desktop\\Version-Control-System\\FinalProject\\finalproject\\flyweight\\flyweightbranch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C9FBFC9-F82D-40FA-82E6-B0D821726AEE}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\flyweight\\flyweightbranch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C9FBFC9-F82D-40FA-82E6-B0D821726AEE}|FinalProject\\FinalProject.csproj|C:\\Users\\1\\Desktop\\Version-Control-System\\FinalProject\\finalproject\\state\\folderitemstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C9FBFC9-F82D-40FA-82E6-B0D821726AEE}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\state\\folderitemstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C9FBFC9-F82D-40FA-82E6-B0D821726AEE}|FinalProject\\FinalProject.csproj|C:\\Users\\1\\Desktop\\Version-Control-System\\FinalProject\\finalproject\\state\\modified.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C9FBFC9-F82D-40FA-82E6-B0D821726AEE}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\state\\modified.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C9FBFC9-F82D-40FA-82E6-B0D821726AEE}|FinalProject\\FinalProject.csproj|C:\\Users\\1\\Desktop\\Version-Control-System\\FinalProject\\finalproject\\command\\addcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C9FBFC9-F82D-40FA-82E6-B0D821726AEE}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\command\\addcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C9FBFC9-F82D-40FA-82E6-B0D821726AEE}|FinalProject\\FinalProject.csproj|C:\\Users\\1\\Desktop\\Version-Control-System\\FinalProject\\finalproject\\state\\staged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C9FBFC9-F82D-40FA-82E6-B0D821726AEE}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\state\\staged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C9FBFC9-F82D-40FA-82E6-B0D821726AEE}|FinalProject\\FinalProject.csproj|C:\\Users\\1\\Desktop\\Version-Control-System\\FinalProject\\finalproject\\state\\merged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C9FBFC9-F82D-40FA-82E6-B0D821726AEE}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\state\\merged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C9FBFC9-F82D-40FA-82E6-B0D821726AEE}|FinalProject\\FinalProject.csproj|C:\\Users\\1\\Desktop\\Version-Control-System\\FinalProject\\finalproject\\state\\commited.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C9FBFC9-F82D-40FA-82E6-B0D821726AEE}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\state\\commited.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C9FBFC9-F82D-40FA-82E6-B0D821726AEE}|FinalProject\\FinalProject.csproj|C:\\Users\\1\\Desktop\\Version-Control-System\\FinalProject\\finalproject\\composite\\fileitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C9FBFC9-F82D-40FA-82E6-B0D821726AEE}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\composite\\fileitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C9FBFC9-F82D-40FA-82E6-B0D821726AEE}|FinalProject\\FinalProject.csproj|C:\\Users\\1\\Desktop\\Version-Control-System\\FinalProject\\finalproject\\command\\abstractcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C9FBFC9-F82D-40FA-82E6-B0D821726AEE}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\command\\abstractcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C9FBFC9-F82D-40FA-82E6-B0D821726AEE}|FinalProject\\FinalProject.csproj|C:\\Users\\1\\Desktop\\Version-Control-System\\FinalProject\\finalproject\\state\\underreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C9FBFC9-F82D-40FA-82E6-B0D821726AEE}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\state\\underreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C9FBFC9-F82D-40FA-82E6-B0D821726AEE}|FinalProject\\FinalProject.csproj|C:\\Users\\1\\Desktop\\Version-Control-System\\FinalProject\\finalproject\\command\\commitcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C9FBFC9-F82D-40FA-82E6-B0D821726AEE}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\command\\commitcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C9FBFC9-F82D-40FA-82E6-B0D821726AEE}|FinalProject\\FinalProject.csproj|C:\\Users\\1\\Desktop\\Version-Control-System\\FinalProject\\finalproject\\command\\commandparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C9FBFC9-F82D-40FA-82E6-B0D821726AEE}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\command\\commandparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\Version-Control-System\\FinalProject\\FinalProject\\Program.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Program.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\Version-Control-System\\FinalProject\\FinalProject\\Program.cs",
+              "RelativeToolTip": "FinalProject\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T20:33:43.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FolderItemContext.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\Version-Control-System\\FinalProject\\FinalProject\\Composite\\FolderItemContext.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Composite\\FolderItemContext.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\Version-Control-System\\FinalProject\\FinalProject\\Composite\\FolderItemContext.cs",
+              "RelativeToolTip": "FinalProject\\Composite\\FolderItemContext.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAzwEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T20:33:44.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FolderItemMemento.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\Version-Control-System\\FinalProject\\FinalProject\\Memento\\FolderItemMemento.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Memento\\FolderItemMemento.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\Version-Control-System\\FinalProject\\FinalProject\\Memento\\FolderItemMemento.cs",
+              "RelativeToolTip": "FinalProject\\Memento\\FolderItemMemento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T20:33:44.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICollaborator.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\Version-Control-System\\FinalProject\\FinalProject\\Observer\\ICollaborator.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Observer\\ICollaborator.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\Version-Control-System\\FinalProject\\FinalProject\\Observer\\ICollaborator.cs",
+              "RelativeToolTip": "FinalProject\\Observer\\ICollaborator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T20:33:44.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\Version-Control-System\\FinalProject\\FinalProject\\Observer\\User.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Observer\\User.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\Version-Control-System\\FinalProject\\FinalProject\\Observer\\User.cs",
+              "RelativeToolTip": "FinalProject\\Observer\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T20:33:44.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\Version-Control-System\\FinalProject\\FinalProject\\Observer\\Repository.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Observer\\Repository.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\Version-Control-System\\FinalProject\\FinalProject\\Observer\\Repository.cs",
+              "RelativeToolTip": "FinalProject\\Observer\\Repository.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAtwCQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T20:33:44.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BranchContext.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\Version-Control-System\\FinalProject\\FinalProject\\Flyweight\\BranchContext.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Flyweight\\BranchContext.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\Version-Control-System\\FinalProject\\FinalProject\\Flyweight\\BranchContext.cs",
+              "RelativeToolTip": "FinalProject\\Flyweight\\BranchContext.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAuwBQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T20:33:44.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FlyweightBranch.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\Version-Control-System\\FinalProject\\FinalProject\\Flyweight\\FlyweightBranch.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Flyweight\\FlyweightBranch.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\Version-Control-System\\FinalProject\\FinalProject\\Flyweight\\FlyweightBranch.cs",
+              "RelativeToolTip": "FinalProject\\Flyweight\\FlyweightBranch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T20:33:44.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FolderItemState.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\Version-Control-System\\FinalProject\\FinalProject\\State\\FolderItemState.cs",
+              "RelativeDocumentMoniker": "FinalProject\\State\\FolderItemState.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\Version-Control-System\\FinalProject\\FinalProject\\State\\FolderItemState.cs",
+              "RelativeToolTip": "FinalProject\\State\\FolderItemState.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T20:33:44.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Modified.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\Version-Control-System\\FinalProject\\FinalProject\\State\\Modified.cs",
+              "RelativeDocumentMoniker": "FinalProject\\State\\Modified.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\Version-Control-System\\FinalProject\\FinalProject\\State\\Modified.cs",
+              "RelativeToolTip": "FinalProject\\State\\Modified.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T20:33:44.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddCommand.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\Version-Control-System\\FinalProject\\FinalProject\\Command\\AddCommand.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Command\\AddCommand.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\Version-Control-System\\FinalProject\\FinalProject\\Command\\AddCommand.cs",
+              "RelativeToolTip": "FinalProject\\Command\\AddCommand.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T20:33:44.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Merged.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\Version-Control-System\\FinalProject\\FinalProject\\State\\Merged.cs",
+              "RelativeDocumentMoniker": "FinalProject\\State\\Merged.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\Version-Control-System\\FinalProject\\FinalProject\\State\\Merged.cs",
+              "RelativeToolTip": "FinalProject\\State\\Merged.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T20:33:44.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Commited.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\Version-Control-System\\FinalProject\\FinalProject\\State\\Commited.cs",
+              "RelativeDocumentMoniker": "FinalProject\\State\\Commited.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\Version-Control-System\\FinalProject\\FinalProject\\State\\Commited.cs",
+              "RelativeToolTip": "FinalProject\\State\\Commited.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T20:33:44.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Staged.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\Version-Control-System\\FinalProject\\FinalProject\\State\\Staged.cs",
+              "RelativeDocumentMoniker": "FinalProject\\State\\Staged.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\Version-Control-System\\FinalProject\\FinalProject\\State\\Staged.cs",
+              "RelativeToolTip": "FinalProject\\State\\Staged.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowB8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T20:33:44.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AbstractCommand.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\Version-Control-System\\FinalProject\\FinalProject\\Command\\AbstractCommand.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Command\\AbstractCommand.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\Version-Control-System\\FinalProject\\FinalProject\\Command\\AbstractCommand.cs",
+              "RelativeToolTip": "FinalProject\\Command\\AbstractCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T20:33:44.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FileItem.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\Version-Control-System\\FinalProject\\FinalProject\\Composite\\FileItem.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Composite\\FileItem.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\Version-Control-System\\FinalProject\\FinalProject\\Composite\\FileItem.cs",
+              "RelativeToolTip": "FinalProject\\Composite\\FileItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T20:33:44.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UnderReview.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\Version-Control-System\\FinalProject\\FinalProject\\State\\UnderReview.cs",
+              "RelativeDocumentMoniker": "FinalProject\\State\\UnderReview.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\Version-Control-System\\FinalProject\\FinalProject\\State\\UnderReview.cs",
+              "RelativeToolTip": "FinalProject\\State\\UnderReview.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T20:33:44.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CommitCommand.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\Version-Control-System\\FinalProject\\FinalProject\\Command\\CommitCommand.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Command\\CommitCommand.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\Version-Control-System\\FinalProject\\FinalProject\\Command\\CommitCommand.cs",
+              "RelativeToolTip": "FinalProject\\Command\\CommitCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T20:33:44.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CommandParams.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\Version-Control-System\\FinalProject\\FinalProject\\Command\\CommandParams.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Command\\CommandParams.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\Version-Control-System\\FinalProject\\FinalProject\\Command\\CommandParams.cs",
+              "RelativeToolTip": "FinalProject\\Command\\CommandParams.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T20:33:44.047Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
